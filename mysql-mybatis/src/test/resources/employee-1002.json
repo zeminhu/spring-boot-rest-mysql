@@ -1,0 +1,13 @@
+{
+    "id": 1002,
+    "employeeId": null,
+    "firstName": "Diane",
+    "lastName": "Murphy",
+    "phone": null,
+    "extension": "x5800",
+    "email": "dmurphy@classicmodelcars.com",
+    "salary": 0,
+    "officeCode": "1",
+    "reportsTo": null,
+    "jobTitle": "President"
+}
